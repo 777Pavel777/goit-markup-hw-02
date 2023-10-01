@@ -181,11 +181,15 @@ ul .nav-link:focus {
 
  /* FOOTER */
 
- .contacts {
+ .footer-cont {
     background-color: #2e2f42;
  }
 
- .contacts-text {
+ .logo-studio-footer {
+    color: #F4F4FD;
+ }
+
+ .footer-cont-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #F4F4FD;
