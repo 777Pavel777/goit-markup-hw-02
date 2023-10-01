@@ -101,6 +101,14 @@ ul .nav-link:focus {
   color: #2e2f42;
 }
 
+.about-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 .about-text {
   font-size: 16px;
   line-height: 1.5;
@@ -115,12 +123,6 @@ ul .nav-link:focus {
 }
 
 .team-title {
-  /* font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  background-color: #ffffff;
-  color: #2e2f42; */
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -128,6 +130,10 @@ ul .nav-link:focus {
   text-transform: capitalize;
   color: #2e2f42;
   background-color: #ffffff;
+}
+
+.team-card {
+    background-color: #ffffff;
 }
 
 .team-card-name {
