@@ -99,7 +99,7 @@ ul .nav-link:focus {
 
 .title-btn:hover,
 .title-btn:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 /* SECTOIN_1 */
@@ -126,11 +126,10 @@ ul .nav-link:focus {
  }
 
  .team-title {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
     color: #2e2f42;
  }
 
@@ -154,15 +153,6 @@ ul .nav-link:focus {
  }
 
  /* SECTOIN_3 */
-
- .portfolio-title {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
- }
 
  .portfolio-name {
     font-weight: 500;
