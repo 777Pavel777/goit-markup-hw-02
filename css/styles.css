@@ -1,7 +1,5 @@
 body {
-  margin: 0 156px;
   font-family: 'Roboto', sans-serif;
-  font-weight: Regular;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 1.5;
@@ -26,7 +24,7 @@ ul {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
+  text-decoration: none;
   color: #4d5ae5;
 }
 
@@ -46,7 +44,6 @@ ul .nav-link {
 ul .nav-link:hover,
 ul .nav-link:focus {
   color: #404bbf;
-  text-decoration: underline 2px #404bbf;
 }
 
 .contacts-team {
@@ -54,6 +51,7 @@ ul .nav-link:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
 }
 
 .contacts-team:hover,
